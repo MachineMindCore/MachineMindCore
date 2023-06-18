@@ -1,5 +1,5 @@
 # 💫 About Me:
-Some description
+Mathematics, Machine Learning and Automatization wizard!
 
 
 ## 🌐 Socials:
